@@ -24,7 +24,7 @@ MonoBehaviour:
   helpDrag: 220
   subSectionDrag: 250
   tabListDrag: 250
-  formulaDrag: 250
+  formulaDrag: 329
   schematicDrag: 400
   jumpListDrag: 267.60004
   dataSelectionSorting: 0
